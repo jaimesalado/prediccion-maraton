@@ -2,3 +2,4 @@ import streamlit
 import pandas
 import joblib
 scikit-learn 
+pandas
