@@ -1,5 +1,4 @@
-import streamlit
-import pandas
-import joblib
-scikit-learn 
+streamlit
 pandas
+joblib
+scikit-learn 
