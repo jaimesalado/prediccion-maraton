@@ -3,3 +3,5 @@
 Web streamlit con python. Donde predecimos el tiempo de una maratón.
 
 <img src= "maraton.jpg" width="300">
+
+<img src= "streamlitmaraton.jpg" width="300">
