@@ -1,2 +1,5 @@
-# prediccion-maraton
-app web streamlit donde predecimos el tiempo de una maratón
+# [Predicción Maratón 🏃](https://jaimesalado-prediccion-maraton-app-j7olq6.streamlit.app/ "Predicción Maratón 🏃")
+
+Web streamlit con python. Donde predecimos el tiempo de una maratón.
+
+<img src= "maraton.jpg" width="300">
